@@ -8,7 +8,7 @@ const Login = () => {
     const {auth} = React.useContext(Context)
 
     const login = async () => {
-        const provider = new firebase.auth.GoogleAuthProvider();
+        const provider = await new firebase.auth.GoogleAuthProvider();
         const {user} = await auth.signInWithPopup(provider);
     }
     return (
