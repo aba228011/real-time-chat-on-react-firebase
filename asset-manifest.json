@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/real-time-chat-on-react-firebase/static/css/main.be925f18.chunk.css",
+    "main.js": "/real-time-chat-on-react-firebase/static/js/main.28ea581c.chunk.js",
+    "main.js.map": "/real-time-chat-on-react-firebase/static/js/main.28ea581c.chunk.js.map",
+    "runtime-main.js": "/real-time-chat-on-react-firebase/static/js/runtime-main.60f6b5d6.js",
+    "runtime-main.js.map": "/real-time-chat-on-react-firebase/static/js/runtime-main.60f6b5d6.js.map",
+    "static/js/2.b07be2f3.chunk.js": "/real-time-chat-on-react-firebase/static/js/2.b07be2f3.chunk.js",
+    "static/js/2.b07be2f3.chunk.js.map": "/real-time-chat-on-react-firebase/static/js/2.b07be2f3.chunk.js.map",
+    "static/js/3.f030c859.chunk.js": "/real-time-chat-on-react-firebase/static/js/3.f030c859.chunk.js",
+    "static/js/3.f030c859.chunk.js.map": "/real-time-chat-on-react-firebase/static/js/3.f030c859.chunk.js.map",
+    "index.html": "/real-time-chat-on-react-firebase/index.html",
+    "static/css/main.be925f18.chunk.css.map": "/real-time-chat-on-react-firebase/static/css/main.be925f18.chunk.css.map",
+    "static/js/2.b07be2f3.chunk.js.LICENSE.txt": "/real-time-chat-on-react-firebase/static/js/2.b07be2f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60f6b5d6.js",
+    "static/js/2.b07be2f3.chunk.js",
+    "static/css/main.be925f18.chunk.css",
+    "static/js/main.28ea581c.chunk.js"
+  ]
+}
